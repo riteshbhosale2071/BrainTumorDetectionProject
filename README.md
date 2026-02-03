@@ -53,19 +53,19 @@ analysis**.
 The dataset used in this project is organized into **Training** and **Testing** folders.  
 Each folder contains MRI brain scan images divided into four categories:
 
-dataset/
-│
-├── Training/
-│   ├── glioma_tumor/
-│   ├── meningioma_tumor/
-│   ├── pituitary_tumor/
-│   └── no_tumor/
-│
-└── Testing/
-    ├── glioma_tumor/
-    ├── meningioma_tumor/
-    ├── pituitary_tumor/
-    └── no_tumor/
+    dataset/
+    │
+    ├── training/
+    │   └── glioma_tumor/
+    │   └── meningioma_tumor/
+    │   └── pituitary_tumor/
+    │   └── no_tumor/
+    │
+    ├── testing/
+        └── glioma_tumor/
+        └── meningioma_tumor/
+        └── pituitary_tumor/
+        └── no_tumor/
 
 ------------------------------------------------------------------------
 
