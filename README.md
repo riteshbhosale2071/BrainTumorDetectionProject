@@ -105,7 +105,7 @@ This structure helps the model learn to distinguish between **different tumor ty
 ## 📄 Research Publication
 
 This project is based on our published research work on Brain Tumor
-Detection using Machine Learning and Computer Vision.
+Detection using Machine Learning & Computer Vision.
 
 **Title:** An Approach for Classification & Detection of Brain Tumor 
 Using CNN & VGG-16\
