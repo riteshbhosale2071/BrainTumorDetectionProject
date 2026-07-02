@@ -29,7 +29,7 @@ analysis**.
 
 ✔ MRI Image Preprocessing using OpenCV\
 ✔ Visualization of medical scan data\
-✔ Tumor vs Non-Tumor classification\
+✔ Tumor vs Non-Tumor Classification\
 ✔ Deep Learning model built with TensorFlow/Keras\
 ✔ Model evaluation using accuracy and performance metrics\
 ✔ Research-backed implementation
